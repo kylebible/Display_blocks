@@ -19,6 +19,10 @@ h1, .leftheaderimage, .rightheaderimage {
   display: inline-block;
 }
 
+.rightheaderimage {
+  background-color: white
+}
+
 .bluebackground1, .bluebackground2, .bluebackground3 {
   height: 600px;
   width: 120px;
