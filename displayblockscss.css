@@ -23,14 +23,7 @@ h1, .leftheaderimage, .rightheaderimage {
   background-color: white
 }
 
-.bluebackground1, .bluebackground2, .bluebackground3 {
-  height: 600px;
-  width: 120px;
-  display: inline-block;
-  margin: 14px;
-}
-
-.redbackground1, .redbackground2 {
+.bluebackground1, .bluebackground2, .bluebackground3, .redbackground1, .redbackground2 {
   height: 600px;
   width: 120px;
   display: inline-block;
